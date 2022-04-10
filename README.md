@@ -1,4 +1,3 @@
-# Branch Master, not main
 
 Using external covid_statistics API for displaying total confirmed and death cases for croatia
 
